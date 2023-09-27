@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+   .searchfor {
+    display: none;
+   }
+
+   .shop {
+    display: none;
+   }
+
+   
+   .navbar-toggler {
+    margin-left: auto !important;
+   }
+
+   .bigwatch {
+      display: none;
+   }
+
+   .input-search {
+      display: none;
+   }
+
+   .review {
+      width: 100%;
+   }
+
+   .card img {
+      width: 100%;
+   }
+
+   .newslet {
+      display: none;
+   }
+}
